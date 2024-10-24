@@ -1,8 +1,3 @@
-# React + Vite
+# Pomodoro React app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This mini project was made due to the lack of internet at the time when I should have been studying. Due to the impossibility of using the pomodoro technique, I decided to make my own version using React.
